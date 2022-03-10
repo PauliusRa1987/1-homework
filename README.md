@@ -7,7 +7,7 @@ _Paulius Ra homework_
 
 This project is for educational porpuses only. Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/33-grupe-portfolio-hostpack/
+Site published at: https://pauliusra1987.github.io/1-homework/
 
 Design: https://www.themelooks.biz/demo/hostpack/html/preview/index.html
 
